@@ -1,0 +1,24 @@
+#sentences{
+   align-items: center;
+  display: flex;
+  font-family: -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Oxygen-Sans,
+    Ubuntu,
+    Cantarell,
+    "Helvetica Neue",
+    font-size: 14px;
+}
+
+thead{
+  color:black;
+  font-weight: bold;
+}
+
+
+table{
+  font-size: 18px;
+  text-transform: capitalize;
+}
